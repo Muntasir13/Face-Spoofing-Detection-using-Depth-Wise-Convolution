@@ -1,1 +1,1 @@
-# Face-Spoofing-Detection-using-Depth-Wise-Convolution
+# Face Spoofing Detection using Depth Wise Convolution
