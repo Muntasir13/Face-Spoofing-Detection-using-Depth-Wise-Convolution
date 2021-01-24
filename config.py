@@ -1,0 +1,13 @@
+train_dataset = '' # Give the location to training dataset here
+test_dataset = '' # Give the location to testing dataset here
+model_save_loc = '' # Give the location to where the model will save
+logs_save_loc = '' # Give the location to where the the training and evaluation logs will save
+model_last_state = '' # Give the location to where the last state of the model is saved. If there is none, keep it blank
+model_last_state_epoch = 0 # The epoch of the latest saved model. Initial value of greater than 0, will prompt training script to look for previous saved model
+image_width = 112
+image_height = 112
+batch_size = 10
+learning_rate = 0.001
+seed_value = 42
+iterations = 40000
+epoch_num = 100
